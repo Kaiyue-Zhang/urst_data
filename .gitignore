@@ -1,0 +1,15 @@
+*
+!.gitignore
+!data/
+
+data/*
+!data/test_data/
+!data/train_data/
+
+data/test_data/*
+!data/test_data/AITW_ID_traj_list.json
+!data/test_data/AITW_OOD_traj_list.json
+!data/test_data/AW_OOD_traj_list.json
+
+data/train_data/*
+!data/train_data/*.json
