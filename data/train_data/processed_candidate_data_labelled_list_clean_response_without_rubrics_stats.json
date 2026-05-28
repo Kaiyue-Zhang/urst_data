@@ -1,0 +1,7 @@
+{
+  "input": "/share/urst_data/data/train_data/processed_candidate_data_labelled_list.json",
+  "output": "/share/urst_data/data/train_data/processed_candidate_data_labelled_list.json",
+  "target_field": "response_without_rubrics",
+  "changed": 2,
+  "total_rows": 3565
+}
