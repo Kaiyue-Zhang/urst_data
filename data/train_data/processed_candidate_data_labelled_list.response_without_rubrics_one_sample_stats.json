@@ -1,9 +1,0 @@
-{
-  "processed": 1,
-  "skipped": 0,
-  "failed": 0,
-  "output": "/share/urst_data/data/train_data/processed_candidate_data_labelled_list.json",
-  "error_output": "/share/urst_data/data/train_data/processed_candidate_data_labelled_list_errors.jsonl",
-  "output_mode": "json",
-  "target_output_field": "response_without_rubrics"
-}
